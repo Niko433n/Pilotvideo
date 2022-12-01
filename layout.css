@@ -25,7 +25,7 @@ main {
 
 body {
   color: white;
-  min-height: 100vh;
+  /*min-height: 100vh;*/
   display: flex;
   flex-direction: column;
   background-color: white;
@@ -62,7 +62,7 @@ h1 {
 
 iframe {
   width: 100%;
-
+  height: auto;
   aspect-ratio: 16 / 9;
 }
 
