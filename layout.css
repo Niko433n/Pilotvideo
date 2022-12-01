@@ -3,6 +3,10 @@
   box-sizing: border-box;
   margin: 0;
 }
+@font-face {
+  font-family: Tiro Bangla;
+  src: url(tirobangla-regular-webfont.woff2);
+}
 
 img {
   vertical-align: middle;
@@ -39,6 +43,7 @@ header nav ul {
   margin-bottom: 2rem;
   position: sticky;
   align-items: center;
+  font-family: Tiro Bangla;
 }
 
 footer {
